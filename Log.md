@@ -11,7 +11,7 @@ introductory-arduino-assignment-gucci-gang-1 created by GitHub Classroom
 
 ## Wednesday, November 15th, 2017
 * Toggle works
-  *When the button is pressed the state of the LED swaps
+  * When the button is pressed the state of the LED swaps
 
 ## Wednesday, November 22nd, 2017
 * We spent some time trying to figure out how to make arduino commits with git. We were able to access the right branch, but were unsuccessful in making the commit.

@@ -18,3 +18,6 @@ introductory-arduino-assignment-gucci-gang-1 created by GitHub Classroom
 
 ## Wednesday, November 29th, 2017
 * Swapped the delay with MS. MS now working.
+
+## Wednesday, December 12th, 2017]
+With our current board configuration, along with the MS code, we're able to get 2 LEDs working with 1 input statement.

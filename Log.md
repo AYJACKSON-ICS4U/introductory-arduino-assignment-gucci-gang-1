@@ -23,4 +23,6 @@ introductory-arduino-assignment-gucci-gang-1 created by GitHub Classroom
 With our current board configuration, along with the MS code, we're able to get 2 LEDs working with 1 input statement.
 ![2 LEDs 1 Input](https://github.com/AYJACKSON-ICS4U/introductory-arduino-assignment-gucci-gang-1/blob/master/ezgif.com-video-to-gif.gif)
 
-Our next goal will be to get 6 LED's to turn on at the same time with the activation from a button.
+Our next goal will be to get 6 LED's to turn on at the same time with the activation from a button based on the following diagram.
+
+![Blueprint (Blackprint)](https://github.com/AYJACKSON-ICS4U/introductory-arduino-assignment-gucci-gang-1/blob/master/NFNFKBF.jpg)
